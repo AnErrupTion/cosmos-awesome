@@ -136,3 +136,4 @@ Also, please check out the New Open Cosmos Alliance for even more projects! (htt
 - CosmosUI (https://github.com/Myvar/CosmosUI)
 - CosmosGuiFramework (https://github.com/Myvar/CosmosGuiFramework)
 - CosmosVbeHack (https://github.com/Myvar/CosmosVbeHack)
+- CosmosFTP (https://github.com/CosmosOS/CosmosFtp)
