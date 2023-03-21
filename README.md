@@ -17,7 +17,7 @@ Also, please check out the New Open Cosmos Alliance for even more projects! (htt
 - Cosmos GUI sample (https://github.com/nifanfa/Cosmos-GUI-Sample)
 - CodsieOS (https://github.com/asterd-og/CodsieOS)
 - Medli (https://github.com/Siaranite-Solutions/Medli)
-- SipaaKernel v5 (https://github.com/SipaaKernel-Project/SipaaKernel)
+- SipaaKernel V6 (https://github.com/SipaaKernel-Project/SipaaKernel)
 - GrapeFruitOS (https://github.com/balika0105/grapeFruitOSCSharp)
 - XenOS (https://github.com/MEMESCOEP/XenOS)
 - Centauri (https://github.com/xyve7/Centauri)
