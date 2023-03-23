@@ -107,6 +107,7 @@ Also, please check out the New Open Cosmos Alliance for even more projects! (htt
 - NapalmOS (https://github.com/napalmtorch/Napalm_OS)
 - Sartox OS (https://github.com/AnErrupTion/Sartox-OS)
 - Vermin Cosmos edition (https://github.com/AnErrupTion/VerminCosmos)
+- 9xOS (https://github.com/9xbt/9xOS)
 
 ## Libraries and utilities
 
