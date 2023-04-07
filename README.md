@@ -12,6 +12,7 @@ Also, please check out the New Open Cosmos Alliance for even more projects! (htt
 
 ## Kernels
 
+- HatchOS (https://github.com/MEMESCOEP/HatchOS)
 - Prism OS (https://github.com/Project-Prism/Prism-OS)
 - SphereOS (https://github.com/Sphere-Systems/SphereOS)
 - Cosmos GUI sample (https://github.com/nifanfa/Cosmos-GUI-Sample)
