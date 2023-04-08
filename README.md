@@ -109,6 +109,7 @@ Also, please check out the New Open Cosmos Alliance for even more projects! (htt
 - Sartox OS (https://github.com/AnErrupTion/Sartox-OS)
 - Vermin Cosmos edition (https://github.com/AnErrupTion/VerminCosmos)
 - 9xOS (https://github.com/9xbt/9xOS)
+- GoOS (https://github.com/Owen2k6/GoOS)
 
 ## Libraries and utilities
 
