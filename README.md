@@ -122,7 +122,6 @@ Also, please check out the New Open Cosmos Alliance for even more projects! (htt
 - DotNetParser (https://github.com/MishaTY/DotNetParser)
 - MIV text editor (https://github.com/bartashevich/MIV)
 - Snake (https://github.com/bartashevich/Snake)
-- SipaaGL (https://github.com/SipaaKernel-Project/SipaaGL)
 - Bird shell (https://github.com/MoxieN/Bird)
 - Verde package manager (https://github.com/MoxieN/Verde)
 - InterpretLayer (https://github.com/Nik300/InterpretLayer)
