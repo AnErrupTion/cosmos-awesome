@@ -28,7 +28,6 @@ Also, please check out the New Open Cosmos Alliance for even more projects! (htt
 - Milkysharp (https://github.com/Doonort3/Milkysharp)
 - Moxie (https://github.com/MoxieN/Moxie)
 - RatMigration (https://github.com/KrabbyKode/RatMigration)
-- ChaOS (https://github.com/ekeleze/ChaOS)
 - COS (https://github.com/GreenSoupDeveloper/COS-OS)
 - Oceano (https://github.com/OceanoOS/Oceano)
 - EchOS (https://github.com/audiotore482/EchOS)
