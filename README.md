@@ -141,3 +141,4 @@ Also, please check out the New Open Cosmos Alliance for even more projects! (htt
 - CosmosVbeHack (https://github.com/Myvar/CosmosVbeHack)
 - CosmosFTP (https://github.com/CosmosOS/CosmosFtp)
 - CCG [Cosmos Console Graphics] (https://github.com/CodeDevel0per/CCG)
+- library [Rary] (https://github.com/z-izz/library)
