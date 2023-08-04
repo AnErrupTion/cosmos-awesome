@@ -110,6 +110,7 @@ Also, please check out the New Open Cosmos Alliance for even more projects! (htt
 - Vermin Cosmos edition (https://github.com/AnErrupTion/VerminCosmos)
 - 9xOS (https://github.com/9xbt/9xOS)
 - GoOS (https://github.com/Owen2k6/GoOS)
+- FalconOS (https://github.com/CodeDevel0per/FalconOS)
 
 ## Libraries and utilities
 
