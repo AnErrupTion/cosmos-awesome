@@ -108,7 +108,7 @@ Also, please check out the New Open Cosmos Alliance for even more projects! (htt
 - NapalmOS (https://github.com/napalmtorch/Napalm_OS)
 - Sartox OS (https://github.com/AnErrupTion/Sartox-OS)
 - Vermin Cosmos edition (https://github.com/AnErrupTion/VerminCosmos)
-- 9xOS (https://github.com/9xbt/9xOS)
+- LemonOS (https://github.com/9xbt/LemonOS)
 - GoOS (https://github.com/Owen2k6/GoOS)
 - FalconOS (https://github.com/CodeDevel0per/FalconOS)
 
@@ -142,3 +142,4 @@ Also, please check out the New Open Cosmos Alliance for even more projects! (htt
 - CosmosFTP (https://github.com/CosmosOS/CosmosFtp)
 - CCG [Cosmos Console Graphics] (https://github.com/CodeDevel0per/CCG)
 - library [Rary] (https://github.com/z-izz/library)
+- SVGAIITerminal (https://github.com/9xbt/SVGAIITerminal)
