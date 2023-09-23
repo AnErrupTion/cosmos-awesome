@@ -11,7 +11,7 @@ If any repository gets taken down, be sure to check out the Cosmos OS Project Ar
 Also, please check out the New Open Cosmos Alliance for even more projects! (https://github.com/Open-Cosmos-Alliance)
 
 ## Kernels
-
+- WaveOS (https://github.com/PratyushSolutions/WaveOS)
 - HatchOS (https://github.com/MEMESCOEP/HatchOS)
 - Prism OS (https://github.com/Project-Prism/Prism-OS)
 - SphereOS (https://github.com/Sphere-Systems/SphereOS)
