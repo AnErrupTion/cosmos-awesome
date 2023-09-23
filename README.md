@@ -114,7 +114,7 @@ Also, please check out the New Open Cosmos Alliance for even more projects! (htt
 
 ## Libraries and utilities
 
-- CosmosTTF (https://github.com/GoldenretriverYT/CosmosTTF)
+- CosmosTTF [Archived Version] (https://github.com/CosmosOSProjectArchive/CosmosTTF) [Original By GoldenRetrieverYT]
 - Optimized Cosmos Graphics (https://github.com/nifanfa/Cosmos-Graphics)
 - Optimized Cosmos DrawString (https://github.com/nifanfa/Cosmos-DrawString)
 - Cross-platform Cosmos install helper (https://github.com/zarlo/cosmos-install-helper)
