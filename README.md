@@ -21,7 +21,7 @@ Also, please check out the New Open Cosmos Alliance for even more projects! (htt
 - SipaaKernel V6 (https://github.com/SipaaKernel-Project/SipaaKernel)
 - GrapeFruitOS (https://github.com/balika0105/grapeFruitOSCSharp)
 - XenOS (https://github.com/MEMESCOEP/XenOS)
-- Centauri (https://github.com/xyve7/Centauri)
+- Centauri (https://github.com/CosmosOSProjectArchive/Centauri)
 - WaveOS (https://github.com/Dawid8plc/WaveOS)
 - SkyOS (https://github.com/Krz12/SkyOs)
 - Banner (https://github.com/EnZon3/Banner)
@@ -67,10 +67,10 @@ Also, please check out the New Open Cosmos Alliance for even more projects! (htt
 - NetOS (https://github.com/ShuralevArthur/NetOS)
 - AzureCecilia OS (https://github.com/AlrReady/azurececiliaos)
 - Tyler OS BASIC (https://github.com/TylerOlson/TylerOSBASIC)
-- AquaOS (https://github.com/pikalover6/AquaOS)
+- AquaOS (https://github.com/CosmosOSProjectArchive/AquaOS)
 - TingTingOS (https://github.com/abirpahlwan/TingTingOS)
 - JackalOS (https://github.com/marwaha-raghav/JackalOS)
-- PigeonOS v1 (https://github.com/pikalover6/PigeonOS-v1)
+- PigeonOS v1 (https://github.com/CosmosOSProjectArchive/PigeonOS-v1)
 - GOS (https://github.com/Edersteiner/gOS)
 - Dragon OS (https://github.com/dragon-os/Dragon-OS)
 - PandoraOS (https://github.com/Blattoid/PandoraOS)
@@ -79,7 +79,7 @@ Also, please check out the New Open Cosmos Alliance for even more projects! (htt
 - RaelOS (https://github.com/BluRael/RaelOS)
 - COS (https://github.com/theproadam/cOS)
 - Medli Classic (https://github.com/Arawn-Davies/Medli-Classic)
-- Raindrop (https://github.com/gitter-badger/Raindrop)
+- Raindrop (https://github.com/CosmosOSProjectArchive/Raindrop)
 - IOTA OS (https://github.com/aneeshdua/IOTA-OS)
 - MEH.COSMOS (https://github.com/danielandastro/MEH.COSMOS)
 - Ode OS (https://github.com/valentinbreiz/Ode-OS)
@@ -111,6 +111,7 @@ Also, please check out the New Open Cosmos Alliance for even more projects! (htt
 - LemonOS (https://github.com/9xbt/LemonOS)
 - GoOS (https://github.com/Owen2k6/GoOS)
 - FalconOS (https://github.com/CodeDevel0per/FalconOS)
+- DuskOS (https://bitbucket.org/nerdhubtech/duskos/src/Dev2022)
 
 ## Libraries and utilities
 
