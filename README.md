@@ -112,6 +112,7 @@ Also, please check out the New Open Cosmos Alliance for even more projects! (htt
 - GoOS (https://github.com/Owen2k6/GoOS)
 - FalconOS (https://github.com/CodeDevel0per/FalconOS)
 - DuskOS (https://bitbucket.org/nerdhubtech/duskos/src/Dev2022)
+- OpenNIX 2 (https://github.com/EnterTheVoid-x86/OpenNIX2)
 
 ## Libraries and utilities
 
