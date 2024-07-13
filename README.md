@@ -33,6 +33,7 @@ Also, please check out the New Open Cosmos Alliance for even more projects! (htt
 - Oceano (https://github.com/OceanoOS/Oceano)
 - EchOS (https://github.com/audiotore482/EchOS)
 - VlaicuOS (https://github.com/Vovo4k/VlaicuOS)
+- SiriusOS (https://github.com/gamma63/SiriusOS)
 - Aqua (https://github.com/ipluxteamx/Aqua)
 - DonutOS (https://github.com/donut2008/DonutOS)
 - DogOS (https://github.com/DogOSdev/DogOS)
