@@ -32,6 +32,8 @@ Also, please check out the New Open Cosmos Alliance for even more projects! (htt
 - COS (https://github.com/GreenSoupDeveloper/COS-OS)
 - Oceano (https://github.com/OceanoOS/Oceano)
 - EchOS (https://github.com/audiotore482/EchOS)
+- Radiant
+(https://github.com/Vardan2009/radiant)
 - VlaicuOS (https://github.com/Vovo4k/VlaicuOS)
 - SiriusOS (https://github.com/gamma63/SiriusOS)
 - Aqua (https://github.com/ipluxteamx/Aqua)
