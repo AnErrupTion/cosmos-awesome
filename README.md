@@ -35,7 +35,7 @@ Also, please check out the New Open Cosmos Alliance for even more projects! (htt
 | EchOS | https://github.com/audiotore482/EchOS | GPLv2 | https://echosoperatingsystem.godaddysites.com/ | Discounted
 | Radiant | https://github.com/Vardan2009/radiant | GPLv3 | N/A | Active
 | VlaicuOS | https://github.com/Vovo4k/VlaicuOS | Unknown | Unknown | Abandonware
-| SiriusOS | https://github.com/gamma63/SiriusOS | BSD-2 Clause | https://gamma63.w10.site/progressnet/sirmain.html | Active
+| SiriusOS | https://github.com/gamma63/SiriusOS | BSD-2 Clause | https://gamma63.w10.site/progressnet/sirmain.html | Historical (started re-implementation in C)
 | Aqua |https://github.com/ipluxteamx/Aqua | GPLv3 | N/A | Discounted
 | DonutOS | https://github.com/donut2008/DonutOS | Public Domain | N/A | Discounted
 | DogOS | https://github.com/DogOSdev/DogOS | BSD-3 Clause | https://dogosdev.github.io/ | Frozen
